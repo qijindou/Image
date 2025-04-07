@@ -1,0 +1,1 @@
+\\begin{array}{cccc} \\hline & \\mathbf{5k} & \\mathbf{10k} & \\mathbf{15k} & \\mathbf{20k} & \\mathbf{25k} & \\mathbf{30k} & \\mathbf{35k} & \\mathbf{40k} & \\mathbf{45k} & \\mathbf{50k}\\\ \\hline  \\mathbf{Running time (in seconds)} & 14 & 20 & 31 & 48 & 61 & 76 & 91 & 109 & 126 & 147 \\\ \\hline \\end{array}
